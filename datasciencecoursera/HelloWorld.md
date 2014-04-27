@@ -1,6 +1,6 @@
 ## This is a markdown file
 
-NOTE (4/26/14): when this file was pushed from the local machine, the command 
+NOTE (4/27/14): when this file was pushed from the local machine, the command 
 
 git push --set-upstream https://github.com/bgDST14/datasciencecoursera master
 
